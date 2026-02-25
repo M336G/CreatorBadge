@@ -1,3 +1,6 @@
+> [!WARNING]
+> Use [Stats Badges](https://github.com/M336G/StatsBadges) instead.
+
 # Creator Badge
 Gives players with creator points a special badge!
 
